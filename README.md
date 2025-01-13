@@ -11,6 +11,8 @@ See FreeCAD file 'parameters' sheet for fit dimensions:
 - 'base fit' - cone/base fit
 - 'slide fit' - base outer / slide inner fit
 
+<img src=".github/images/cones_sm.jpeg" width="400"/>
+
 ## Print Instructions
 
 All models are printed using the following settings:
