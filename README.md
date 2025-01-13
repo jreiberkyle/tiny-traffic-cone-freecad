@@ -1,6 +1,15 @@
 # Tiny Traffic Cone
 
-A snap-together, 1/10 scale model of a traffic cone.
+A snap-together, 1/10 scale model of a traffic cone made in FreeCAD v1.
+
+The cone model is 28" cone with 6" and 4" reflective bands.
+
+Spec source: https://www.cabletiesandmore.com/jbc-safety-white-traffic-cones
+
+See FreeCAD file 'parameters' sheet for fit dimensions:
+- 'fit' - cone/band fit
+- 'base fit' - cone/base fit
+- 'slide fit' - base outer / slide inner fit
 
 ## Print Instructions
 
