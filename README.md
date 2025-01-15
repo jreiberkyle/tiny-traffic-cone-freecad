@@ -2,7 +2,7 @@
 
 A snap-together, 1/10 scale model of a traffic cone made in FreeCAD v1.
 
-The printed cone is approximately 71mm tall, 25mm x 25mm wide, and weighs 4g.
+The printed cone is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
 
 The cone reference model is the 28" traffic cone with 6" and 4" reflective bands.
 
@@ -31,7 +31,7 @@ of the parameters can be changed using the 'parameters' sheet in the file.
 The traffic cone is a powerful symbol. It represents boundaries, safety, and caution.
 In the chaotic fullness of life, may we all have access to these protections.
 In the porousness of that which transcends the bounds of life, may we all be concious
-and intentional about the ways we percieve and actualize separation.
+and intentional about the ways we perceive and actualize separation.
 
 The values that go into this design are:
 1. Excellence in design
