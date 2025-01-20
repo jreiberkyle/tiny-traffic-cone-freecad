@@ -1,12 +1,11 @@
 # Tiny Traffic Cone
 
-A 3d-printable snap-together 1/10 scale model of a traffic cone.
-
 The traffic cone is a powerful symbol. It represents boundaries, safety, and caution.
 In the chaotic fullness of life, may we all have access to these protections.
 In the porousness of that which transcends the bounds of life, may we all be conscious
 about the ways we perceive and actualize separation.
 
+This is a 3d-printable snap-together 1/10 scale model of a traffic cone.
 The printed cone is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
 
 <img src=".github/images/cones_sm.jpeg" width="400"/>
@@ -44,9 +43,7 @@ Goals:
 1. Combine parts in a way that allows separating them again
 1. Use FreeCAD to learn the software
 
-### Outcomes
-
-Parts of the design that I love are:
+Parts that I love:
 1. It utilizes vase mode (or mock vase mode) to make a strong print with a single wall. 
 1. The bands snap onto the cone with a satisfying click. 
 1. When stacked, the cones 'grab onto' each other when pressed together. This appears to be 
@@ -124,8 +121,8 @@ These settings are included in 'tiny-traffic-cone-base.3mf'.
 
 ## Construction Instructions
 
+Use some force to snap the bands onto the cone.
+
 Orient the slide base outer part so that the octagonal indent is up. Drop the cone in tip first so that it rests in the octagonal
 groove of the base and extends downward. Orient the slide base inner part so that the largest surface is facing the outer part. It
 should slide in without much effort.
-
-Use some force to snap the bands onto the cone.
