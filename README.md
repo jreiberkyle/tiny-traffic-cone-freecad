@@ -1,18 +1,13 @@
 # Tiny Traffic Cone
 
-A snap-together, 1/10 scale model of a traffic cone made in FreeCAD v1.
+A 3d-printable snap-together 1/10 scale model of a traffic cone.
+
+The traffic cone is a powerful symbol. It represents boundaries, safety, and caution.
+In the chaotic fullness of life, may we all have access to these protections.
+In the porousness of that which transcends the bounds of life, may we all be conscious
+about the ways we perceive and actualize separation.
 
 The printed cone is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
-
-The cone reference model is the 28" traffic cone with 6" and 4" reflective bands.
-
-Spec source: https://www.cabletiesandmore.com/jbc-safety-white-traffic-cones
-
-With variations between printers and filaments, the fit parameters may need to be customized. To
-customize fit, see the FreeCAD file 'parameters' sheet for fit dimensions:
-- 'fit' - cone/band fit
-- 'base fit' - cone/base fit
-- 'slide fit' - base outer / slide inner fit
 
 <img src=".github/images/cones_sm.jpeg" width="400"/>
 
@@ -26,19 +21,22 @@ are dreams of making a magnetic base and a weighted base.
 The FreeCAD file is the work of someone who is new to the software, so probably rough quality. Many
 of the parameters can be changed using the 'parameters' sheet in the file.
 
-## Context
+## Model
 
-The traffic cone is a powerful symbol. It represents boundaries, safety, and caution.
-In the chaotic fullness of life, may we all have access to these protections.
-In the porousness of that which transcends the bounds of life, may we all be concious
-and intentional about the ways we perceive and actualize separation.
+This model was generated in FreeCAD v1.0.0.
 
-The values that go into this design are:
+The traffic cone reference model is the 28" traffic cone with 6" and 4" reflective bands.
+
+Spec source: https://www.cabletiesandmore.com/jbc-safety-white-traffic-cones
+
+## Design
+
+Values:
 1. Excellence in design
 1. Minimize waste
 1. Face a challenge
 
-The goals of this design are:
+Goals:
 1. Scaled model that complies to regulations
 1. Sized to hold in the hand
 1. Minimal filament usage
@@ -46,7 +44,7 @@ The goals of this design are:
 1. Combine parts in a way that allows separating them again
 1. Use FreeCAD to learn the software
 
-## Outcomes
+### Outcomes
 
 Parts of the design that I love are:
 1. It utilizes vase mode (or mock vase mode) to make a strong print with a single wall. 
@@ -70,6 +68,12 @@ All models are printed using the following settings:
 * 0.2 mm layer height
 * 0.4 mm nozzle
 * 0.45 mm width
+
+With variations between printers and filaments, the fit parameters may need to be customized. To
+customize fit, see the FreeCAD file 'parameters' sheet for fit dimensions:
+- 'fit' - cone/band fit
+- 'base fit' - cone/base fit
+- 'slide fit' - base outer / slide inner fit
 
 ### Bands
 
