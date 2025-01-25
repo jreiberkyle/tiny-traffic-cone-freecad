@@ -6,7 +6,7 @@ In the porousness of that which transcends the bounds of life, may we all be con
 about the ways we perceive and actualize separation.
 
 This is a 3d-printable snap-together 1/10 scale model of a traffic cone.
-The printed cone is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
+The printed cone with the stacking base is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
 
 <img src=".github/images/cones_sm.jpeg" width="400"/>
 
@@ -15,7 +15,8 @@ The printed cone is approximately 71mm tall, 36mm x 36mm wide, and weighs 4g.
 As of version 1.0.0, the Cone and Bands part of the design is satisfactory and are not expected
 to change. Design effort will shift to varieties of bases. Currently, there is a stacking base
 that is excellent for forming a stack of cones (which stick together if pressed, try it!). There
-are dreams of making a magnetic base and a weighted base.
+is also a magnetic base that accomodates 4 6x2 magnets. The next bases are a penny weighted base,
+a tape base (this should be pretty basic, just remove the hole), and a zip tie base.
 
 The FreeCAD file is the work of someone who is new to the software, so probably rough quality. Many
 of the parameters can be changed using the 'parameters' sheet in the file.
@@ -108,16 +109,34 @@ Enable vase mode. Set bottom solid layers to 4.
 
 These settings are included in 'tiny-traffic-cone-Cone-vasemode.3mf'.
 
-### Base
+### Bases
 
-Load 'tiny-traffic-cone-SlideBaseInner-Stacking.step' and 'tiny-traffic-cone-SlideBaseOuter.step' into the slicer.
+#### Base Outer
 
-Align SlideBaseOuter so that the flat plane is on the bottom, touching the build surface.
-Align SlideBaseInner so that the larger plane is on the bottom, touching the build surface.
+The outer base is the top part of all the following bases.
+
+To print it, load 'tiny-traffic-cone-SlideBaseOuter.step' into the slicer.
+
+Align SlideBaseOuter so that the flat plane (top of the base) is on the bottom, touching the build surface.
 
 Set seam position to Random.
 
 These settings are included in 'tiny-traffic-cone-base.3mf'.
+
+#### Slide Base
+
+Load 'tiny-traffic-cone-SlideBaseInner-Stacking.step' into the slicer.
+
+### Magnetic Base
+
+Load 'tiny-traffic-cone-bases-BaseInner-Magnet-6x2.step' into the slicer.
+
+Orient the model so that the bottom of the base is touching the build surface.
+
+To add 6x2 magnets to the base, press them into the holes with a flat surface (I use flat-nosed pliers). Then pop them
+down into the pocket with the pad of your finger. They should be right up against the bottom of the hole.
+
+To remove the magnets, use a 2mm hex wrench to push up from the bottom of the base.
 
 ## Construction Instructions
 
